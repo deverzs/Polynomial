@@ -10,7 +10,6 @@
  * @author  Nery Chapeton-Lamas <nchapetonLamas@miracosta.edu>
  * @version 1.0
  */
-
 package edu.miracosta.cs113;
 
 import org.junit.Test;
